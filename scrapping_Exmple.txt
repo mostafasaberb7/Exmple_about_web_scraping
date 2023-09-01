@@ -1,0 +1,29 @@
+Task 1
+---------
+Scrap the USD To EGP Exchange rate from this website
+https://www.exchangerates.org.uk/Dollars-to-Egyptian-Pounds-currency-conversion-page.html
+and then use it to make a software that takes amount of USD Dollars from the user and calculate how much will it cost in EGP.
+
+Task 2
+---------
+Scraping from forecast weather
+Imagine you work for forecast weather Now imagine your boss wants you to find the temperature for each day in Celsius degree. How could you do this with Beautiful Soup?
+https://forecast.weather.gov/MapClick.php?lat=37.7772&lon=-122.4168
+
+Task 3
+---------
+Scrap the books (name, price, rate) for each category and put them into a CSV & Excel file
+https://books.toscrape.com/
+
+
+Task 4
+---------
+once you decided to do some exploring an want to know each country's (name, capital, population, Area(km^2)
+scrape the 250 countries (name, capital, population, area) and save them into a csv file
+use this site to scrape this data : https://www.scrapethissite.com/pages/simple/
+
+Task 5
+---------
+scraping data about hockey teams:
+you have to scrap the first page table's data (Team name, year, wins, losses, win%, goals for(gf), golaagainst(ga)
+from this website: https://www.scrapethissite.com/pages/forms/?page_num=1
